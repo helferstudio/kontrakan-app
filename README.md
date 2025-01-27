@@ -2,7 +2,9 @@
 
 Website ini dibuat untuk mempromosikan kontrakan Bu Teti yang menyediakan hunian nyaman dengan harga terjangkau dan lokasi yang strategis.
 
-## Link URL Website (kontrakanbuteti.42web.io)
+## Demo Website
+
+Kunjungi website di link berikut: [Kontrakan Bu Teti](https://kontrakanbuteti.42web.io)
 
 ## Fitur Utama
 
