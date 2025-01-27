@@ -24,4 +24,4 @@ Website ini dibuat untuk mempromosikan kontrakan Bu Teti yang menyediakan hunian
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/kontrakan-bu-teti.git
+   git clone https://github.com/helferstudio/kontrakan-app.git
