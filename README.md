@@ -24,6 +24,15 @@ Kunjungi website di link berikut: [Kontrakan Bu Teti](http://kontrakanbuteti.42w
   - PHP
 - **Hosting**: Deployed di platform hosting InfinityFree.
 
+## Anggota Kelompok
+
+1. Charles Parluhutan - 50421306
+2. Farhan Fadillah - 50421472
+3. Irfan Bayu Seno - 50421661
+4. Kindy Bintang Naufaldi - 50421736
+5. Vanness Abbabiel Septieliano - 51421497 
+6. Steven Go Nathaniel - 51421435
+
 ## Cara Menjalankan Proyek Ini
 
 1. Clone repository:
