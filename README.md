@@ -4,7 +4,7 @@ Website ini dibuat untuk mempromosikan kontrakan Bu Teti yang menyediakan hunian
 
 ## Demo Website
 
-Kunjungi website di link berikut: [Kontrakan Bu Teti](https://kontrakanbuteti.42web.io)
+Kunjungi website di link berikut: [Kontrakan Bu Teti](http://kontrakanbuteti.42web.io)
 
 ## Fitur Utama
 
